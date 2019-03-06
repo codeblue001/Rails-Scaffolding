@@ -1,0 +1,26 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+body{
+background-color: #1E92F7;
+font-family: 'Montserrat', sans-serif;
+color: white;
+margin: 0 auto;
+text-align: center;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+}
+
+input {
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+input#todo_item_description {
+  background-color: white;
+}
